@@ -11,7 +11,7 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:wuchao" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
@@ -32,6 +32,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1g7noWRhCjZEvjTMbI1sQH8aLaj" />
@@ -55,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597474673814</updated>
       <workItem from="1597474674991" duration="712000" />
-      <workItem from="1597475738667" duration="467000" />
+      <workItem from="1597475738667" duration="1050000" />
     </task>
     <task id="LOCAL-00001" summary="吴超创建的分支">
       <created>1597475109344</created>
@@ -88,7 +93,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="wuchao" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -110,13 +115,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="349" y="146" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1597474801675" />
-    <state x="361" y="131" key="Vcs.Push.Dialog.v2" timestamp="1597475351670">
+    <state x="361" y="131" key="Vcs.Push.Dialog.v2" timestamp="1597476746619">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="131" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1597475351670" />
-    <state x="582" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597475006596">
+    <state x="361" y="131" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1597476746619" />
+    <state x="582" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597476398699">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="582" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1597475006596" />
+    <state x="582" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1597476398699" />
   </component>
 </project>
